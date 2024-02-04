@@ -1,0 +1,12 @@
+baseURL = 'https://blurpath.github.io/'
+languageCode = 'cn-zh'
+title = '走神投影 Neurodiversity'
+theme = 'paper'
+
+[params]
+  color = 'linen'                           # linen, wheat, gray, light
+  mastodon = 'https://neurodifferent.me/@blurpath'           # e.g. 'https://mastodon.instance/@xxx'
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-KRFMCRJ47S'
